@@ -1,0 +1,3 @@
+{
+"scriptKey": "Tierz"
+}
